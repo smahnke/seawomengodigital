@@ -1,26 +1,10 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Grayscale](http://startbootstrap.com/template-overviews/grayscale/)
+Vision Document: Reykjavík Maritime Museum
+http://borgarsogusafn.is/en/reykjavik-maritime-museum/exhibitions/sea-women  
 
-[Grayscale](http://startbootstrap.com/template-overviews/grayscale/) is a multipurpose, one page HTML theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This template features various content sections and a Google Maps section with a custom map marker.
+Title:
 
-## Getting Started
+Unearthing a Silent History: Sea Women Go Digital
 
-To use this template, choose one of the following options to get started:
-* Download the latest release on Start Bootstrap
-* Fork this repository on GitHub
+Project Description:
 
-## Bugs and Issues
-
-Have a bug or an issue with this template? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-grayscale/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/grayscale/).
-
-## Creator
-
-Start Bootstrap was created by and is maintained by **David Miller**, Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
-
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-grayscale/blob/gh-pages/LICENSE) license.
+Evidence of female representation in the maritime industry has been sparse.  There have even been reports that women are not associated with the industry at all.  The work of anthropologist, Margaret Willson, has brought to light the fact that women are and always have been an integral part of the booming maritime enterprise in Iceland.  The idea behind our project is to better represent the history of women in the maritime industry through the use of an interactive webpage hosted by the Reykjavik Maritime Museum.  Since this is a part of the museum’s website, the idea is that people around the world will have a more realistic view of women in the maritime industry.  Furthermore, The interactive nature of the site will be of use for educators of young children, as it’ll provide lots of photos and videos rather than a lot of text. Not only an educational tool, the site will act as a voice for all of the women in the maritime industry - from Iceland and the rest of the world. 
