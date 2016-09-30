@@ -1,4 +1,5 @@
-Vision Document: Reykjavík Maritime Museum
+
+<strong>Vision Document: Reykjavík Maritime Museum</strong>
 http://borgarsogusafn.is/en/reykjavik-maritime-museum/exhibitions/sea-women  
 
 Title:
